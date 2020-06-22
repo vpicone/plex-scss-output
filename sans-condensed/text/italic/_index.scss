@@ -3,8 +3,8 @@ $font-prefix: '..' !default;
   font-family: 'IBM Plex Sans Condensed';
   font-style: italic;
   font-weight: 450;
-  src: local('IBM Plex Sans Condensed Text Italic'),
-    local('IBMPlexSansCondensed-TextItalic'),
+  src: local('IBM Plex Sans Cond Text Italic'),
+    local('IBMPlexSansCond-TextItalic'),
     url('#{$font-prefix}/IBM-Plex-Sans-Condensed/fonts/complete/woff2/IBMPlexSansCondensed-TextItalic.woff2') format('woff2'),
     url('#{$font-prefix}/IBM-Plex-Sans-Condensed/fonts/complete/woff/IBMPlexSansCondensed-TextItalic.woff') format('woff');
 }
